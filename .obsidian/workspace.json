@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "90f9b57d378d9bfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "53e3116e343ed206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45b9cba0cffeec43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Darsaras/Budget.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Budget"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7d2246bc1da1cd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0de4ad8568b9306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b6f629163de2252",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "818b60c8474e7a98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "47cbf6db5096b1a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "ea3192b9367ccbb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a62e824a5399ba3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e60ac77174930ef7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Darsaras/Budget.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Budget"
+            }
+          },
+          {
+            "id": "a0a2fb3e554c8390",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Darsaras/Budget.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Budget"
+            }
+          },
+          {
+            "id": "9173a566f80e4941",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8bb5b0bfeabf4a6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Darsaras/Budget.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Budget"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "45b9cba0cffeec43",
+  "lastOpenFiles": [
+    "Lordran Darsaras/Go vs Rust.md",
+    "Darsaras/Stack.md",
+    "Darsaras/Budget.md",
+    "Lordran Darsaras/Lordran vs Darsaras.md",
+    "Lordran Darsaras/Budget.md",
+    "Darsaras",
+    "Welcome.md",
+    "Lordran Darsaras"
+  ]
+}
