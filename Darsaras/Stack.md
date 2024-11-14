@@ -11,3 +11,13 @@
 - Web
 - Mobile
 
+## Frameworks & Tools
+
+- Go
+- Python
+- TypeScript
+- SvelteKit
+- PyTorch
+- Docker
+- Kubernetes
+- PostgreSQL

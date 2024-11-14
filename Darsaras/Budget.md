@@ -1,5 +1,3 @@
-
-
 ## VPS provider
 
 - Hetzner
@@ -9,42 +7,13 @@
 - GCP
 - Digital Ocean
 - AWS
-## Open vacancies
 
-### Full Stack dev
+## Yearly budget
 
-- TypeScript
-- Svelte
-- Svelte Kit
-- OAuth
-- Tailwind
-- Drizzle ORM
-- Docker
-- PostgreSQL
-### Mobile dev
+- darsaras.com $15 usd
+- Hetzner VPS 8vCPU 32Gb 240Gb $720 usd
+- PyCharm $99 usd
+- Goland $99 usd
+- MacBook Pro M4 $1,905 usd
 
-- TypeScript
-- React
-- React Native
-- Expo
-- Tanstack Query
-- Nativewind
-
-### DevOps
-
-- Linux
-- Docker
-- Kubernetes
-- Digital Ocean
-- Prometheus
-- GitLab
-
-### Cloud & Distributed Systems dev
-
-- Go
-- Rust
-- Actix Web
-- OAuth
-- PostgreSQL
-- Redis
-- SurrealDB
+Total monthly budget = $237 usd

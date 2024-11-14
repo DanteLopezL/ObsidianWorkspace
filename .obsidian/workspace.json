@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lordran Darsaras/Budget.md",
+                "file": "Lordran Darsaras/Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Budget"
+              "title": "Projects"
             }
           }
         ]
@@ -164,11 +164,15 @@
   },
   "active": "45b9cba0cffeec43",
   "lastOpenFiles": [
+    "Darsaras/Stack.md",
+    "Darsaras/Projects.md",
+    "Lordran Darsaras/Projects.md",
+    "Lordran Darsaras/Stack.md",
+    "Darsaras/Open vacancies.md",
     "Darsaras/Budget.md",
     "Lordran Darsaras/Budget.md",
     "Lordran Darsaras/Learning Path.md",
     "Lordran Darsaras/Lordran vs Darsaras.md",
-    "Darsaras/Stack.md",
     "Lordran Darsaras/Go vs Rust.md",
     "Darsaras",
     "Welcome.md",
