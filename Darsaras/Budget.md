@@ -2,10 +2,13 @@
 
 ## VPS provider
 
-
+- Hetzner
+- Digital Ocean
 ## Cloud provider
 
-
+- GCP
+- Digital Ocean
+- AWS
 ## Open vacancies
 
 ### Full Stack dev
@@ -45,7 +48,3 @@
 - PostgreSQL
 - Redis
 - SurrealDB
-
-### Sys Admin
-
-- Linux

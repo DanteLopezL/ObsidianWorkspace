@@ -2,7 +2,6 @@
 ## Lordran
 
 - SvelteKit
-- PyTorch
 - Docker
 - Postgres
 
@@ -11,7 +10,6 @@
 - SvelteKit
 - PyTorch
 - Go
-- Rust
 - React Native
 - Docker
 - Kubernetes

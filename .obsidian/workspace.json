@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Darsaras/Budget.md",
+                "file": "Lordran Darsaras/Budget.md",
                 "mode": "source",
                 "source": false
               },
@@ -164,11 +164,12 @@
   },
   "active": "45b9cba0cffeec43",
   "lastOpenFiles": [
-    "Lordran Darsaras/Go vs Rust.md",
-    "Darsaras/Stack.md",
     "Darsaras/Budget.md",
-    "Lordran Darsaras/Lordran vs Darsaras.md",
     "Lordran Darsaras/Budget.md",
+    "Lordran Darsaras/Learning Path.md",
+    "Lordran Darsaras/Lordran vs Darsaras.md",
+    "Darsaras/Stack.md",
+    "Lordran Darsaras/Go vs Rust.md",
     "Darsaras",
     "Welcome.md",
     "Lordran Darsaras"
